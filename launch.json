@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/manik s miet/manik cse",
-      "program": "d:/manik s miet/manik cse/build/Debug/outDebug",
+      "cwd": "d:/manik s miet/manik cse/.vscode",
+      "program": "d:/manik s miet/manik cse/.vscode/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
