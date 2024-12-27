@@ -1,5 +1,5 @@
 //wap to count the number of even and odd elements in an array
-include<stdio.h>
+#include<stdio.h>
 #include<stdlib.h>
 int main(){
     int n,sum;
